@@ -1,0 +1,50 @@
+[
+  {
+    "objectId": "IMFcFlKxQP",
+    "createdAt": "2016-02-29T23:44:50.908Z",
+    "updatedAt": "2016-02-29T23:45:51.080Z",
+    "active": true,
+    "defaultOpportunity": true,
+    "language": "es",
+    "name": "Catholic Relief Services",
+    "contactWeb": "http://www.crsespanol.org/"
+  },
+  {
+    "objectId": "F3IdFBb6Gy",
+    "createdAt": "2014-11-18T17:54:28.622Z",
+    "updatedAt": "2016-02-29T23:44:40.197Z",
+    "active": true,
+    "defaultOpportunity": true,
+    "name": "Choose Your Own Service",
+    "language": "en"
+  },
+  {
+    "objectId": "TwZeX1WGt6",
+    "createdAt": "2014-11-18T17:53:47.181Z",
+    "updatedAt": "2016-02-29T23:44:40.900Z",
+    "active": true,
+    "defaultOpportunity": true,
+    "name": "Service to Family",
+    "language": "en"
+  },
+  {
+    "objectId": "91CyynoQm9",
+    "createdAt": "2014-11-18T17:35:55.723Z",
+    "updatedAt": "2016-02-29T23:44:41.423Z",
+    "active": true,
+    "defaultOpportunity": true,
+    "name": "St. Vincent de Paul Society",
+    "language": "en"
+  },
+  {
+    "objectId": "Xny0x5qvDs",
+    "createdAt": "2014-11-18T16:50:50.474Z",
+    "updatedAt": "2016-02-29T23:44:42.505Z",
+    "active": true,
+    "contactPhone": "(203) 752-4000",
+    "contactWeb": "http://www.kofc.org/un/en/officers/fac.html",
+    "defaultOpportunity": true,
+    "name": "Knights of Columbus",
+    "language": "en"
+  }
+]
